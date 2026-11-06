@@ -36,7 +36,7 @@ Java 21, Swing with FlatLaf (GUI), JDBC, MySQL 8, MySQL Connector/J (jar in `lib
 2. Run `Schema.sql` in MySQL Workbench to create the `trapnet` database, tables, views and triggers.
 3. In `DBConnection.java`, set your own MySQL URL, username and password (replace `YOUR_PASSWORD`).
 4. Open the project in IntelliJ IDEA and add the jars in `lib` (MySQL Connector/J and FlatLaf) as libraries if they aren't picked up.
-5. Run `SetupAdmin` once to create the admin account.
+5. Open `SetupAdmin.java`, replace `YOUR_PASSWORD` with a password of your choice, and run it once to create the admin account (username: `admin`).
 6. Run `Main` to start the honeypot (the decoy login attackers see).
 7. Run `AdminMain` to start the secure admin login and dashboard. Use the "Simulate attack" button to generate sample attacks.
 
