@@ -20,11 +20,11 @@ TrapNet is a decoy admin login that attracts attackers, records everything they 
 
 | Admin login | Top attackers |
 |---|---|
-| ![Admin login](screenshots/login.png) | ![Top attackers](screenshots/top-attackers.png) |
+| ![Admin login](screenshots/WhatsApp%20Image%202026-11-03%20at%206.48.09%20PM.jpeg) | ![Top attackers](screenshots/WhatsApp%20Image%202026-11-03%20at%206.49.02%20PM.jpeg) |
 
 | Most-tried passwords | Recent alerts |
 |---|---|
-| ![Most-tried passwords](screenshots/most-tried-passwords.png) | ![Recent alerts](screenshots/recent-alerts.png) |
+| ![Most-tried passwords](screenshots/WhatsApp%20Image%202026-11-03%20at%206.49.19%20PM.jpeg) | ![Recent alerts](screenshots/WhatsApp%20Image%202026-11-03%20at%206.49.49%20PM.jpeg) |
 
 ## Tech Stack
 
